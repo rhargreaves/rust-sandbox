@@ -1,2 +1,1 @@
-# rust-sandbox
-🦀
+# Rust Sandbox
